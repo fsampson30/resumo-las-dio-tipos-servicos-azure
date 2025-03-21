@@ -1,0 +1,1 @@
+# resumo-las-dio-tipos-servicos-azure
